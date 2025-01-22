@@ -2,3 +2,8 @@ opencv-python-headless==4.8.1.78
 deepface==0.0.79
 pandas==2.1.1
 matplotlib==3.8.0
+langgraph
+langchain
+tiktoken
+python-dotenv
+langchain-google-genai
