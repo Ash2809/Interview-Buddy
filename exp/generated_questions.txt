@@ -1,0 +1,13 @@
+Here are the interview questions tailored to the job description of a Machine Learning Engineer:
+
+1. Easy Level:
+   - Question 1: What is the difference between supervised and unsupervised learning in machine learning, and can you provide an example of each?
+   - Question 2: How do you handle missing values in a dataset, and what are some common techniques for imputing missing data?
+
+2. Medium Level:
+   - Question 1: Describe a situation where you had to optimize a machine learning model for better performance. What techniques did you use, and what were the results?
+   - Question 2: Write a Python code snippet to implement a simple neural network using Keras that classifies handwritten digits (e.g., MNIST dataset). Explain the architecture and the reasoning behind your design choices.
+
+3. Hard Level:
+   - Question 1: Suppose you're tasked with building a recommender system for an e-commerce platform. Describe how you would approach this problem, including data collection, feature engineering, model selection, and evaluation metrics. How would you handle issues like cold start and diversity in recommendations?
+   - Question 2: Design a machine learning pipeline to predict customer churn for a telecom company. The pipeline should include data preprocessing, feature engineering, model training, and hyperparameter tuning. Assume you have access to a large dataset containing customer demographics, usage patterns, and billing information. How would you evaluate the performance of your pipeline, and what metrics would you use to measure its effectiveness?
